@@ -3,7 +3,7 @@
  * SUPPORTS BOTH JSONP AND POST REQUESTS FOR NETLIFY STATIC DEPLOYMENT
  * 
  * Version: 7.0.0 - JSONP Production
- * Last Updated: 2025-07-27
+ * Last Updated: 2025-07-27 , in this code you need to copy the headers in the respective sheets then only data goes in there.
  */
 
 // Configuration - Update SPREADSHEET_ID with your actual Google Sheets ID
